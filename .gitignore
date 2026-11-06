@@ -1,0 +1,6 @@
+venv/
+practiceenv/
+__pycache__/
+*.pyc
+.env
+*.db
